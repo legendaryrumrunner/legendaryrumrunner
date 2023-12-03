@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rumrunner
+- 👋 Hi, I’m @rumrunnerpro
 - 👀 I’m interested in Real User Metrics (RUM)
-- 🌱 I’m currently learning Google Core Web Vitals
-- 💞️ I’m looking to collaborate on Rum Runner
+- 🌱 I’m currently running Google RUM for Core Web Vitals
+- 💞️ I’m looking to collaborate on Rum Runner Pro
 - 📫 How to reach me: rumrunner.pro
 
 <!---
