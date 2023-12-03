@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @legendaryrumrunner
+- 👋 Hi, I’m @rumrunner
 - 👀 I’m interested in Real User Metrics (RUM)
 - 🌱 I’m currently learning Google Core Web Vitals
 - 💞️ I’m looking to collaborate on Rum Runner
